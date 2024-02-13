@@ -1,4 +1,4 @@
-# Basic Routes Lab (v5)
+# Basic Routes Lab
 
 ## Learning Goals
 
